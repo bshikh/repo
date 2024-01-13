@@ -1,1 +1,3 @@
-print("Йоу")
+print('Йоу')
+
+print('Yo')
